@@ -26,6 +26,10 @@
     margin-bottom: 8px;
 }
 
+.main-footer a {
+    text-decoration: none;
+}
+
 .main-footer .footer-social {
     text-align: center;
 }
