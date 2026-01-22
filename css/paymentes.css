@@ -67,6 +67,22 @@
         background: url(../imagens/japao3-tablet-desk.png) no-repeat;
         background-size: cover;
     }
+
+    /* Pacotes de viagens */
+    .payments .travel-packages .image.primeira {
+        background: url(../imagens/travel-packages/japão1-tablet.png) no-repeat;
+        background-size: cover;
+    }
+
+    .payments .travel-packages .image.segunda {
+        background: url(../imagens/travel-packages/japão2-tablet.png) no-repeat;
+        background-size: cover;
+    }
+
+    .payments .travel-packages .image.terceira {
+        background: url(../imagens/travel-packages/japão3-tablet.png) no-repeat;
+        background-size: cover;
+    }
 }
 
 @media screen and (min-width: 1440px) {
@@ -83,4 +99,20 @@
         width: 790px;
         margin: 0;
     } 
+
+    /* Pacotes de viagens */
+    .payments .travel-packages .image.primeira {
+        background: url(../imagens/travel-packages/japão1-desktop.png) no-repeat;
+        background-size: cover;
+    }
+
+    .payments .travel-packages .image.segunda {
+        background: url(../imagens/travel-packages/japão2-desktop.png) no-repeat;
+        background-size: cover;
+    }
+
+    .payments .travel-packages .image.terceira {
+        background: url(../imagens/travel-packages/japão3-desktop.png) no-repeat;
+        background-size: cover;
+    }
 }
